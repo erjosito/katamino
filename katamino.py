@@ -4,6 +4,7 @@ import time
 
 import puzzle
 
+# Initialize list of pieces and colors
 pieces_list, colors = puzzle.get_piece_list()
 
 # Game definition
